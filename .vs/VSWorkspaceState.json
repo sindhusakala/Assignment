@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\containers",
+    "\\src\\containers\\Albums",
+    "\\src\\containers\\Blog",
+    "\\src\\containers\\Loginpage",
+    "\\src\\containers\\Posts",
+    "\\src\\containers\\Posts\\NewPost",
+    "\\src\\containers\\Posts\\UserPosts",
+    "\\src\\header"
+  ],
+  "SelectedNode": "\\src\\containers\\Loginpage\\Login.js",
+  "PreviewInSolutionExplorer": false
+}
